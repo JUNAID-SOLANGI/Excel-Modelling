@@ -44,3 +44,5 @@
 - Monte Carlo simulation for risk modeling
 - Sensitivity analysis for business decision-making
 - Optimization under uncertainty
+
+## Work Book: https://1drv.ms/f/c/1731ab638b5a214b/Eod6H8xXm1tDr0XGDESWaZkB-jaSoPVc32Tll5ua3w5YxQ?e=5fHdoG
